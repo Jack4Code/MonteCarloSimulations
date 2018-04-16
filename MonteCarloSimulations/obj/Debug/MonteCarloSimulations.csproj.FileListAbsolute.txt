@@ -1,0 +1,7 @@
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\bin\Debug\MonteCarloSimulations.exe.config
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\bin\Debug\MonteCarloSimulations.exe
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\bin\Debug\MonteCarloSimulations.pdb
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\obj\Debug\MonteCarloSimulations.csprojResolveAssemblyReference.cache
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\obj\Debug\MonteCarloSimulations.csproj.CoreCompileInputs.cache
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\obj\Debug\MonteCarloSimulations.exe
+J:\Projects\C# Projects\ASPDotNetMVCTutorial\MonteCarloSimulations\MonteCarloSimulations\obj\Debug\MonteCarloSimulations.pdb
